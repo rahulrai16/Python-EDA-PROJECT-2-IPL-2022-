@@ -1,3 +1,2 @@
 # Python-EDA-PROJECT-2-IPL-2022-
-
-Performed Exploratory Data Analysis on IPL 2022 Auction dataset....
+Performed exploratory data analysis (EDA) on IPL 2023 Auction Dataset using Python. Utilized various Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation, visualization, and statistical analysis. Conducted data cleaning, data preprocessing, and feature engineering to ensure data quality. Analyzed and visualized key patterns, trends, and relationships in the dataset to gain valuable insights. Summarized findings and presented actionable recommendations based on the EDA results.
